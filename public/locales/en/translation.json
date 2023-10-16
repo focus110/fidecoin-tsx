@@ -1,0 +1,83 @@
+{ "btnText":"Talk to an expert",
+"50_Millions_users":"50 Millions users",
+    "sliderText_1": {
+        "title":"Attract",
+        "subText":"Client",
+        "btnText":"Talk to an expert"
+    },
+    "sliderText_2": {
+        "title":"Provides",
+        "subText":"Rewards",
+        "btnText":"Talk to an expert"
+    },
+    "sliderText_3": {
+        "title":"Increasing",
+        "subText":"Sales",
+        "btnText":"Talk to an expert"
+    },
+    "introText":{
+        "text1":"Introducing",
+        "text2":"Fidecoin",
+        "text3":"The first universal reward currency, for everyone."
+    },
+    "fidayPayText":{
+        "text1":"The first payment terminal that rewards",
+        "text2":"merchants",
+        "text3":"employees",
+        "text4":"and",
+        "text5":"customers",
+        "text6":"All bank cards become",
+        "text7":"reward cards",
+        "text8":"Universal Reward",
+        "text9":"Currency",
+        "text10":"Digital tickets",
+        "text11":"Automatic customer",
+        "text12":"registration"
+
+    },
+    "walletText":{
+        "text1":"Mobile Wallet",
+        "text2":"Digitize your marketing materials",
+        "text3":"Transaction history E-ticket",
+        "text4":"VIP Event E-reservations",
+        "text5":"Loyalty cards Gift cards",
+        "text6":"New offer New product/service",
+        "text7":"Vouchers Contests"
+    },
+    "whatsappText":{
+        "text1":"Vouchers",
+        "text2":"atisfaction survey",
+        "text3":"e-gift cards",
+        "text4":"Smart payment",
+        "text5":"games and contests",
+        "text6":"Smart customer",
+        "text7":"relationship via",
+        "text8":"WhatsApp",
+        "text9":"Ready?"
+    },
+    "programText":{
+        "text1":"Program monitoring",
+        "text2":"Sales challange",
+        "text3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text4":"Customer Surveys",
+        "text5":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text6":"Wallet report",
+        "text7":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text8":"Customer sactisfaction score",
+        "text9":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text10":"Sales person satisfaction score",
+        "text11":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text12":"Transaction history",
+        "text13":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text14":"default"
+    },
+    "footerText":{
+        "text1":"Build mobile loyalty, boost customer retention, deliver relevant real-time offers, and grow your business with intelligent ads powered by FideCoin.",
+        "text2":"Contact",
+        "text3":"85 rue du Faubourg Saint-Honore,",
+        "text4":"75008 PARIS",
+        "text5":"+33 1 84 80 83 00",
+        "text6":"contact@fidecoin.com",
+        "text7":"©2023 FideCoin. All rights reserved."
+    }
+}

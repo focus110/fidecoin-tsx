@@ -1,0 +1,81 @@
+{
+"btnText":"Parlez à un expert",
+"50_Millions_users":"50 millions d'utilisateurs",
+ "sliderText_1": {
+        "title":"Attirer",
+        "subText":"Client",
+        "btnText":"Parlez à un expert"
+    },
+    "sliderText_2": {
+        "title":"Rewards",
+        "subText":"Récompenses",
+        "btnText":"Parlez à un expert"
+    },
+    "sliderText_3": {
+        "title":"En augmentant",
+        "subText":"Rewards",
+        "btnText":"Parlez à un expert"
+    }, "introText":{
+        "text1":"Présentation",
+        "text2":"FidéCoin",
+        "text3":"fidecoinLa première monnaie de récompense universelle, pour tous."
+    },
+    "fidayPayText":{
+        "text1":"Le premier terminal de paiement qui récompense",
+        "text2":"marchandes",
+        "text3":"employés",
+        "text4":"et",
+        "text5":"clients",
+        "text6":"Toutes les cartes bancaires deviennent",
+        "text7":"cartes de récompense",
+        "text8":"Récompense universelle",
+        "text9":"Devise",
+        "text10":"Billets numériques",
+        "text11":"Client automatique",
+        "text12":"inscription"
+
+    },
+    "walletText":{
+        "text1":"Portefeuille mobile",
+        "text2":"Numérisez vos supports marketing",
+        "text3":"Historique des transactions",
+        "text4":"Réservations électroniques pour événements VIP",
+        "text5":"Cartes de fidélité Cartes cadeaux",
+        "text6":"Nouvelle offre Nouveau produit/service",
+        "text7":"Concours de bons d'achat"
+    },    "whatsappText":{
+        "text1":"Pièces justificatives",
+        "text2":"enquête de satisfaction",
+        "text3":"cartes cadeaux électroniques",
+        "text4":"Paiement intelligent",
+        "text5":"jeux et concours",
+        "text6":"Client intelligent",
+        "text7":"relation via",
+        "text8":"WhatsApp",
+        "text9":"Prêt?"
+    }, "programText":{
+        "text1":"Suivi du programme",
+        "text2":"Défi de vente",
+        "text3":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text4":"Enquêtes clients",
+        "text5":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text6":"Rapport sur le portefeuille",
+        "text7":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text8":"Score de satisfaction client",
+        "text9":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text10":"Score de satisfaction des commerciaux",
+        "text11":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text12":"Historique des transactions",
+        "text13":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "text14":"défaut"
+    },
+    "footerText":{
+        "text1":"Fidélisez-vous sur mobile, améliorez la fidélisation des clients, proposez des offres pertinentes en temps réel et développez votre entreprise avec des publicités intelligentes optimisées par FideCoin.",
+        "text2":"Contact",
+        "text3":"85 rue du Faubourg Saint-Honoré,",
+        "text4":"75008 PARIS",
+        "text5":"+33 1 84 80 83 00",
+        "text6":"contact@fidecoin.com",
+        "text7":"©2023 FideCoin. Tous droits réservés."
+    }
+}
