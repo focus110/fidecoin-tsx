@@ -69,12 +69,12 @@ const Slider: React.FC = () => {
       >
         <div className="container">
           <Menu />
-          <div className="flex flex-col py-20 md:flex-row space-y-8 justify-between items-center">
+          <div className="flex flex-col py-20 md:h-screen md:flex-row space-y-8 justify-between items-center">
             <div className="text-center md:text-left md:pl-16">
               <p className="text-4xl md:text-[40px] text-[#373737] efx__fadeIn">
                 {slides[currentIndex].title}
               </p>
-              <h1 className="text-5xl md:text-7xl text-[#373737] font-bold efx__fadeIn mb-8">
+              <h1 className="text-4xl md:text-7xl text-[#373737] font-bold efx__fadeIn mb-8">
                 {slides[currentIndex].sub_title}
               </h1>
               <button className="border-[2px] border-[#373737] bg-transparent rounded-3xl py-3 px-6 font-semibold hover:bg-[#373737] hover:text-white transition duration-300 text-[#373737] efx__fadeIn">
