@@ -6,6 +6,7 @@ import { GoDotFill } from "react-icons/go";
 import slideBg from "../sliderBg/slide_bg.png";
 import device from "../sliderBg/device.png";
 import Menu from "./Menu";
+import { motion } from "framer-motion";
 
 interface Slide {
   url: any;
@@ -90,11 +91,18 @@ const Slider: React.FC = () => {
               </button>
             </div>
 
-            <img
-              className="w-[150px] md:w-[450px] efx__fadeInRight"
-              src={slides[currentIndex].img.src}
-              alt="device"
-            />
+            <motion.div
+              key={currentIndex} // This key forces re-render and re-animation when currentIndex changes
+              initial={{ opacity: 0, x: -100 }} // Initial animation state
+              animate={{ opacity: 1, x: 0 }} // Animation when the component is mounted or re-rendered
+              transition={{ duration: 0.5 }} // Transition duration
+            >
+              <img
+                className={`w-[150px] md:w-[450px] efx__fadeInRight`}
+                src={slides[currentIndex].img.src}
+                alt="device"
+              />
+            </motion.div>
           </div>
         </div>
       </div>
